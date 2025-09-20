@@ -85,8 +85,8 @@ AideGivesEverstoneText2:
 	cont "-er from evolving!"
 	
 	para "It's a handy stone"
-	line "when you don't a"
-	cont "certain #MON"
+	line "when you don't want"
+	cont "a certain #MON"
 	cont "to evolve."
 	done
 
